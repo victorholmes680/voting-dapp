@@ -1,1 +1,0 @@
-/Users/wangzhixiong/victorholmes/workspace/bootcamp-temp/voting-dapp/anchor/target/sbpf-solana-solana/release/voting.so: /Users/wangzhixiong/victorholmes/workspace/bootcamp-temp/voting-dapp/anchor/programs/voting/src/lib.rs
